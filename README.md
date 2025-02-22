@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Muhammad Naeem</h2>
 
-<h3 align="center">   A passionate web developer from Paksitan</h3>
+<h3 align="center">   A passionate web developer from Pakistan</h3>
 
 <p align="center">I’m currently working on <strong>Next.js Development</strong></p>
 
