@@ -40,7 +40,7 @@
 
 <a href="https://github.com/m-naeem66622">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-naeem66622&show_icons=true&theme=react" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=m-naeem66622)](https://github.com/m-naeem66622)
+  <img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" />
 </a>
 
 <br/>
